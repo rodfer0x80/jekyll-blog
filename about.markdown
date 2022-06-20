@@ -6,4 +6,6 @@ permalink: /about/
 
 This is where I write some of my wild thoughts and fun projects.
 
-[<-- Back>][https://trevalkov.github.io] 
+[<-- Back][root]
+
+[root]: https://trevalkov.github.io/
