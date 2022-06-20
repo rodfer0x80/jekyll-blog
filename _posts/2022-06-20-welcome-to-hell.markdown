@@ -9,6 +9,6 @@ if __name__ == '__main__':
     burnTheWholeWorld()
 {% endhighlight %}
 
-[<-- Back][root]
+[Back][root]
 
 [root]: https://trevalkov.github.io/
