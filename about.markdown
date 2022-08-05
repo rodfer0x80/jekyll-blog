@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is where I write some of my wild thoughts and fun projects.
+Hot ideas straight from the underworld.
 
 [Back][root]
 
