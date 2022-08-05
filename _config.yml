@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hell World
-email: rodrigolf080@gmail.com
+email: rodfer0x80@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to hell!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/trevalkov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rodfer_20
-github_username:  rodfer20
+twitter_username: rodfer0x80
+github_username:  rodfer0x80
 
 # Build settings
 theme: minima
